@@ -1,0 +1,14 @@
+{
+  "name": "tesera",
+  "version": "1.0.0",
+  "description": "Simple Node developer challenge.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Lavigne",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+	"store": "index.js"
+  }
+}
